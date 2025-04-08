@@ -45,5 +45,5 @@ jobs:
           script_stop: true
           script: |
             cd ~/eureka
-            chmod +x startupEureka.sh
-            ./startupEureka.sh
+            chmod +x startup.sh
+            ./startup.sh
