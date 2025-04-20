@@ -19,7 +19,6 @@ eureka:
     service-url:
       defaultZone: http://admin:1234@localhost:10280/eureka
 
-
 # 로깅 레벨 (선택)
 logging:
   level:
