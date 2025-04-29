@@ -1,5 +1,3 @@
-
-
 package com.nhnacademy.eureka.config;
 
 import org.springframework.context.annotation.Bean;
