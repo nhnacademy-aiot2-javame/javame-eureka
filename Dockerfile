@@ -14,6 +14,7 @@ WORKDIR /app
 # 'javame-trans-service.jar'은 예시고 자신의 레포 이름으로 설정하면 됨
 COPY target/*.jar javame-eureka.jar
 
+
 # 4. Spring Boot 앱이 실행될 포트 노출
 EXPOSE 10280
 
