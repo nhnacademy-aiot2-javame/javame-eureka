@@ -1,0 +1,10 @@
+spring:
+  security:
+    user:
+      name: admin
+      password: 1234
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://admin:1234@eureka:10280/eureka
